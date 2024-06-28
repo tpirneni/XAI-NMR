@@ -1,1 +1,1 @@
-Repository associated with the paper "Explainable AI to Facilitate Understanding of Neural Network-Based Metabolite Profiling Using NMR Spectroscopy" published in Metabolites: add link here.
+Repository associated with the paper "Explainable AI to Facilitate Understanding of Neural Network-Based Metabolite Profiling Using NMR Spectroscopy" published in Metabolites: https://www.mdpi.com/2218-1989/14/6/332.
